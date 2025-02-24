@@ -16,7 +16,7 @@ stakeholders monitor, analyze, and make informed decisions for managing patients
 - **📊 Dynamic Slicers -** To track monthly and yearly records.
 
 ## 🖼️ Screenshots
-![Hospital Emergency Room Dashboard]("C:\Users\pkmad\Pictures\Screenshots\Hospital_Emergency_Room_Dashboard.png")
+![Hospital Emergency Room Dashboard]("C:\temp\Hospital_Emergency_Room_Dashboard.png")
 
 ## 🛠️ Technologies Used
 - **✅ Microsoft Excel 2021** for creating entire dashboard.
