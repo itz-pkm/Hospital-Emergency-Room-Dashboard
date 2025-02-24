@@ -63,7 +63,7 @@ This project is licensed under the MIT License.
 
 ## ⭐ Author & Acknowledgements
 -  **Author:** Prince Kumar ([Github Profile](https://github.com/itz-pkm))
--  Special thanks to Satish Dhawale (Founder of SkillCourse) for providing guidence & data set..
+-  Special thanks to Satish Dhawale (Founder of SkillCourse) for providing guidence & dataset.
 
 ## 🙋‍♂️ Contact & Support 
 For any questions or support, please reach out via email at `prince.madheshiya3097@gmail.com` or open an issue in this repository.
