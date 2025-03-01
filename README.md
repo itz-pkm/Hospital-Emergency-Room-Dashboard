@@ -16,12 +16,12 @@ stakeholders monitor, analyze, and make informed decisions for managing patients
 - **📊 Dynamic Slicers -** To track monthly and yearly records.
 
 ## 🖼️ Screenshots
-![Hospital Emergency Room Dashboard]("C:\temp\Hospital_Emergency_Room_Dashboard.png")
+![Hospital Emergency Room Dashboard](https://github.com/itz-pkm/Hospital-Emergency-Room-Dashboard/blob/main/Hospital_Emergency_Room_Dashboard.png)
 
 ## 🛠️ Technologies Used
-- **✅ Microsoft Excel 2021** for creating entire dashboard.
-- **✅ Power Query** for data cleaning & transformation.
-- **✅ Power Pivot** for data analysis & modeling.
+- **✅ Microsoft Excel 2021 -** For creating entire dashboard.
+- **✅ Power Query Editor -** For data cleaning & transformation.
+- **✅ Power Pivot -** For data analysis & modeling.
 
 ## 📦 Installation & Setup
 1. Download the File:
